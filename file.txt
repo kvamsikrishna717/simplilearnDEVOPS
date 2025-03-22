@@ -1,3 +1,5 @@
 dev1
 
 edited in git GUI
+
+to see of tracking is enabled
